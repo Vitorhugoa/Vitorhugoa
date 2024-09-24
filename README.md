@@ -54,6 +54,13 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Vitorhugoa/Vitorhugoa/output/snake.svg" alt="Snake animation" />
+
+
+
+
 ![snake gif](https://github.com/Vitorhugoa/Vitorhugoa/blob/output/github-contribution-grid-snake.svg)
 
 
